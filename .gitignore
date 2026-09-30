@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environment variables
+.env
+.env.local
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Saved drawings (keep folder structure, ignore actual PNG files)
+saved_drawings/*.png
+saved_drawings/*.jpg
+
+# Pytest / Cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE / Editor config
+.vscode/
+.idea/
+*.swp
